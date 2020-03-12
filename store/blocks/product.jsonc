@@ -44,7 +44,9 @@
     "children": [
       "sku-selector",
       "product-quantity"
-    ],
+    ]
+  },
+  "sku-selector": {
     "props": {
       "initialSelection": "empty",
       "showVariationsLabels": "true",
@@ -55,7 +57,9 @@
     "children": [
       "product-images",
       "product-brand"
-    ],
+    ]
+  },
+  "product-brand": {
     "props": {
       "displayMode": "logo",
       "height": "30px"
