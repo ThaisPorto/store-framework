@@ -46,18 +46,22 @@
       "product-quantity"
     ]
   },
+  "stack-layout#brand": {
+    "children": [
+      "product-images",
+      "product-brand"
+    ]
+  },
   "sku-selector": {
     "props": {
       "initialSelection": "empty",
       "showVariationsLabels": true,
       "showVariationsErrorMessage": true
     }
-  },
-  "stack-layout#brand": {
-    "children": [
-      "product-images",
-      "product-brand"
-    ]
+
+    // comece sem nenhum SKU selecionado;
+    // mostre o nome por variação de sku;
+    // mostre erro se nenhuma variação de sku for selecionada.
   },
   "product-brand": {
     "props": {
