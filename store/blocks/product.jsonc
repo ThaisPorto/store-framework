@@ -58,10 +58,6 @@
       "showVariationsLabels": true,
       "showVariationsErrorMessage": true
     }
-
-    // comece sem nenhum SKU selecionado;
-    // mostre o nome por variação de sku;
-    // mostre erro se nenhuma variação de sku for selecionada.
   },
   "product-brand": {
     "props": {
