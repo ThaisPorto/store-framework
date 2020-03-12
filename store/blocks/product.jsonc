@@ -54,9 +54,9 @@
   },
   "sku-selector": {
     "props": {
+      "initialSelection": "empty",
       "showVariationsLabels": true,
-      "showVariationsErrorMessage": true,
-      "initialSelection": "empty"
+      "showVariationsErrorMessage": true 
     }
   },
   "product-brand": {
